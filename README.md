@@ -12,7 +12,7 @@
 <a href="https://twitter.com/ujjawal_kumar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjawal_kumar17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjawalkumar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawalkumar17" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjawal_kumar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjawal_kumar17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawalkumar17082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawalkumar17082002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ujjawalkumar17082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawal_kumar17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
